@@ -1,12 +1,10 @@
 # [Start Bootstrap - Stylish Portfolio](https://startbootstrap.com/theme/stylish-portfolio/)
 # Let's start
-[Stylish Portfolio](https://startbootstrap.com/theme/stylish-portfolio/) is a responsive, one page portfolio theme for [Bootstrap](https://getbootstrap.com/) created by [Start Bootstrap](https://startbootstrap.com/). The theme features multiple content sections with an off canvas navigation menu.
 
-## Preview
+The goal of this page is to describe my interests in data analysis.
 
-[![Stylish Portfolio Preview](https://assets.startbootstrap.com/img/screenshots/themes/stylish-portfolio.png)](https://startbootstrap.github.io/startbootstrap-stylish-portfolio/)
-
-**[View Live Preview](https://startbootstrap.github.io/startbootstrap-stylish-portfolio/)**
+##
+The repository contains the Lithuanian Parliamentary election 2020 dataset provided by [the Central Electoral Commission of the Republic of Lithuania](https://www.vrk.lt/en/home)
 
 ## Status
 
