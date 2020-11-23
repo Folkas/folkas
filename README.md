@@ -4,7 +4,7 @@
 The goal of this page is to describe my interests in data analysis.
 
 ##
-The repository contains the Lithuanian Parliamentary election 2020 dataset provided by [the Central Electoral Commission of the Republic of Lithuania](https://www.vrk.lt/en/home)
+The repository contains the Lithuanian Parliamentary election 2020 dataset provided by [the Central Electoral Commission of the Republic of Lithuania](https://www.vrk.lt/en/home). I'd like to research voter behavior in different municipalities (Vilnius, Šiauliai and Kelmė). My theory is that voters' attitudes depend on the size of their municipality.
 
 ## Status
 
@@ -13,15 +13,6 @@ The repository contains the Lithuanian Parliamentary election 2020 dataset provi
 [![Build Status](https://travis-ci.org/StartBootstrap/startbootstrap-stylish-portfolio.svg?branch=master)](https://travis-ci.org/StartBootstrap/startbootstrap-stylish-portfolio)
 [![dependencies Status](https://david-dm.org/StartBootstrap/startbootstrap-stylish-portfolio/status.svg)](https://david-dm.org/StartBootstrap/startbootstrap-stylish-portfolio)
 [![devDependencies Status](https://david-dm.org/StartBootstrap/startbootstrap-stylish-portfolio/dev-status.svg)](https://david-dm.org/StartBootstrap/startbootstrap-stylish-portfolio?type=dev)
-
-## Download and Installation
-
-To begin using this template, choose one of the following options to get started:
-
-* [Download the latest release on Start Bootstrap](https://startbootstrap.com/theme/stylish-portfolio/)
-* Install via npm: `npm i startbootstrap-stylish-portfolio`
-* Clone the repo: `git clone https://github.com/StartBootstrap/startbootstrap-stylish-portfolio.git`
-* [Fork, Clone, or Download on GitHub](https://github.com/StartBootstrap/startbootstrap-stylish-portfolio)
 
 ## Usage
 
